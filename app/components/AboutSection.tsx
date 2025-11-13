@@ -59,17 +59,7 @@ const TAB_DATA = [
       <div className="flex flex-col space-y-4">
         <div className="bg-[#181818] p-6 rounded-lg border border-gray-800">
           <div className="flex flex-col space-y-4">
-            {/* Masters Degree */}
-            <div className="flex flex-col space-y-2">
-              <h3 className="text-xl font-bold text-white">
-                Master&apos;s in Computer Science
-              </h3>
-              <p className="text-gray-300">University of Texas Rio Grande Valley</p>
-              <div className="flex items-center space-x-2">
-                <div className="h-1 w-1 rounded-full bg-gray-400"></div>
-                <span className="text-sm text-gray-400">Graduate Studies</span>
-              </div>
-            </div>
+           
 
             {/* Bachelors Degree */}
             <div className="flex flex-col space-y-2">
